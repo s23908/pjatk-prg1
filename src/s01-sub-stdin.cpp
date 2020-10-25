@@ -1,4 +1,4 @@
-#include <iostream>  // for std:cout, std::cerr, and std::cin
+#include <iostream> 
 #include <string>
 
 auto ask_user_for_integer(std::string prompt) -> int
