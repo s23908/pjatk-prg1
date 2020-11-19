@@ -1,9 +1,6 @@
 #include <iostream>
 
-
-auto main() -> int
-{
-    std::cout << "Hello, Blazej!\n";
-    return 0;
+auto main() -> int {
+  std::cout << "Hello, Blazej!\n";
+  return 0;
 }
-
